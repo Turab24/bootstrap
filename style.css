@@ -1,0 +1,23 @@
+body{
+    background-color:black;
+}
+.nav a{
+    color: wheat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2{
+    color: white;
+    font-family: cursive;
+}
+.container{
+    max-width: 100%;
+}
+.img:hover{
+    transform: scale(0.5);
+}
+.navbar{
+    
+    padding: 15px;
+    background-color:black;
+    height: 50px    
+}
